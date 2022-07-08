@@ -16,8 +16,6 @@ public class User {
 
       private String  last_update;
 
-      private int idade;
-
     public String getName() {
         return Name;
     }
