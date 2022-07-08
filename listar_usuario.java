@@ -2,8 +2,7 @@ public class User {
 
       private int id;
 
-      private String  Lucas;
-
+      private String  Name;
 
       private String  email;
 
@@ -16,8 +15,6 @@ public class User {
       private String  status;
 
       private String  last_update;
-
-      private int idade;
 
     public String getName() {
         return Name;
