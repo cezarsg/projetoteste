@@ -2,7 +2,7 @@ public class User {
 
       private int id;
 
-      private String  Lucas1;
+      private String  Lucas2;
 
 
       private String  hotmail;
