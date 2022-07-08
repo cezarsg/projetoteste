@@ -5,7 +5,7 @@ public class User {
       private String  Lucas1;
 
 
-      private String  gmail;
+      private String  hotmail;
 
       private String  mobile;
 
